@@ -24,16 +24,19 @@ const theme = createMuiTheme({
       },
       MuiOutlinedInput:{
         root: {
-          "&&& $input": {
-            padding: '4px 24px 4px 8px'
+          "& $input": {
+            padding: '4px 24px 4px 8px',
+          },
+          "& :nth-child(2)": {
+            width: 50
           }
         }
       },
-      MuiSelect: {
+      MuiGridList: {
         root: {
-          width: 100
+          width: 250
         }
-      }
+      },
   },
 });
 
