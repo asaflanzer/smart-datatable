@@ -22,7 +22,7 @@ export default function FeaturesGrid() {
        options: {
         sort: true,
         filter: false,
-        customHeadLabelRender: (columnMeta) => (
+        customHeadLabelRender: (columnMeta: object) => (
           <span style={{fontWeight: 'bold', textTransform: 'uppercase'}}>Name</span>
          ),
        }
@@ -32,7 +32,7 @@ export default function FeaturesGrid() {
        options: {
         sort: true,
         filter: false,
-        customHeadLabelRender: (columnMeta) => (
+        customHeadLabelRender: (columnMeta: object) => (
           <span style={{fontWeight: 'bold', textTransform: 'uppercase'}}>Variable Id</span>
          ),
        }
@@ -42,10 +42,10 @@ export default function FeaturesGrid() {
        options: {
         sort: false,
         filter: false,
-        customHeadLabelRender: (columnMeta) => (
+        customHeadLabelRender: (columnMeta: object) => (
           <span style={{fontWeight: 'bold', textTransform: 'uppercase'}}>Description</span>
          ),
-         customBodyRender: (value, tableMeta, updateValue) => (
+         customBodyRender: (value: any, tableMeta: any, updateValue: any) => (
            <div>
               {value}
            </div>
@@ -58,19 +58,19 @@ export default function FeaturesGrid() {
        options: {
         filter: true,
         sort: false,
-        customHeadLabelRender: (columnMeta) => (
+        customHeadLabelRender: (columnMeta: object) => (
           <span style={{fontWeight: 'bold', textTransform: 'uppercase'}}>Domains</span>
          ),
-        customBodyRender: (value, tableMeta, updateValue) => (
+        customBodyRender: (value: any, tableMeta: any, updateValue: any) => (
           <FormControl>
           <Select 
             multiple 
             value={value} 
             style={{fontSize: 'inherit'}} 
             input={<OutlinedInput />}
-            renderValue={(selected) => selected.join(', ')}
+            renderValue={(selected: any) => selected.join(', ')}
           >
-            {metadata !== '' && metadata.domains.map((domain, index) => (
+            {!!metadata && metadata.domains.map((domain, index) => (
               <MenuItem key={index} value={domain}>
                 <Checkbox checked={value.indexOf(domain) > -1} />
                 <ListItemText primary={domain} />
@@ -86,18 +86,18 @@ export default function FeaturesGrid() {
         options: {
          filter: true,
          sort: false,
-         customHeadLabelRender: (columnMeta) => (
+         customHeadLabelRender: (columnMeta: object) => (
           <span style={{fontWeight: 'bold', textTransform: 'uppercase'}}>Labels</span>
          ),
-         customBodyRender: (value, tableMeta, updateValue) => (
+         customBodyRender: (value: any, tableMeta: any, updateValue: any) => (
           <Select 
             multiple 
             value={value} 
             style={{fontSize: 'inherit'}} 
             input={<OutlinedInput />}
-            renderValue={(selected) => selected.join(', ')}
+            renderValue={(selected: any) => selected.join(', ')}
           >
-            {metadata !== '' && metadata.labels.map((label, index) => (
+            {!!metadata && metadata.labels.map((label, index) => (
               <MenuItem key={index} value={label}>
                 <Checkbox checked={value.indexOf(label) > -1} />
                 <ListItemText primary={label} />
@@ -112,10 +112,10 @@ export default function FeaturesGrid() {
         options: {
          sort: true,
          filter: false,
-         customHeadLabelRender: (columnMeta) => (
+         customHeadLabelRender: (columnMeta: object) => (
           <span style={{fontWeight: 'bold', textTransform: 'uppercase'}}>Value</span>
          ),
-         customBodyRender: (value, tableMeta, updateValue) => (
+         customBodyRender: (value: any, tableMeta: any, updateValue: any) => (
           <OutlinedInput
             value={value || ''}
             onChange={event => updateValue(event.target.value)}
@@ -135,8 +135,8 @@ export default function FeaturesGrid() {
           <MUIDataTable
               title="Features List"
               data={features}
-              columns={columns}
-              options={options}
+              columns={columns as any}
+              options={options as any}
           />
       )}
       </>

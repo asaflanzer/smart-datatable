@@ -1,26 +1,25 @@
 import { useState, useEffect } from 'react';
 // lib
 import { fetchFeatures, fetchModelMetadata } from '../lib/mock-api';
+import { INodeAttributes, IModelMetadata } from '../lib/types';
 
 export default function useQueryFeatures() {
-  const [loading, setLoading] = useState(false);
-  const [features, setFeatures] = useState([]);
-  const [metadata, setMetaData] = useState({});
+  const [loading, setLoading] = useState(false as Boolean);
+  const [features, setFeatures] = useState([] as INodeAttributes[]);
+  const [metadata, setMetaData] = useState({} as IModelMetadata);
 
   useEffect(() => {
     const getFeatures = async () => {
       setLoading(true);
       const res = await fetchFeatures();
       // console.log('features', res);
-
-      res.map((item) => {
-        return setFeatures((features) => [...features, item.attributes]);
-      });
+      const featuresArray: INodeAttributes[] = res.map((item) => item.attributes);
+      setFeatures(featuresArray);
     };
     getFeatures();
 
     const getModelMetadata = async () => {
-      const res = await fetchModelMetadata();
+      const res: IModelMetadata = await fetchModelMetadata();
       //console.log('metadata', res);
       setMetaData(res);
       setLoading(false);
