@@ -1,4 +1,4 @@
-# Team88 - Features List
+# Smart Datatable
 
 A React app that displays all the list of features in a grid with the abiilities of search, filter, sort and editing the relavant items
 
