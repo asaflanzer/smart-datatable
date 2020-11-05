@@ -4,7 +4,7 @@ import { fetchFeatures, fetchModelMetadata } from '../lib/mock-api';
 import { INodeAttributes, IModelMetadata } from '../lib/types';
 
 export default function useQueryFeatures() {
-  const [loading, setLoading] = useState(false as Boolean);
+  const [loading, setLoading] = useState(false as boolean);
   const [features, setFeatures] = useState([] as INodeAttributes[]);
   const [metadata, setMetaData] = useState({} as IModelMetadata);
 

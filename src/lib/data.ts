@@ -87,7 +87,673 @@ export const features: Array<ICrNode> = [{
         ],
         "value": -1
     }
-}];
+},
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+,
+{
+    "id": "063ff094-77f1-4d36-80f4-872710f56a2f",
+    "attributes": {
+        "name": "Cloud Strife",
+        "varId": "cloud_strife",
+        "description": "Blond EX-SOLDIER guy who carris a giant sword, our hero",
+        "type": NodeTypes.FEATURE,
+        "domains": [
+            "Main Characters"
+        ],
+        "labels": [
+            "SOLDIER",
+            "Avalanche"
+        ],
+        "value": -1
+    }
+}
+];
 
 export const modelMetadata: IModelMetadata = {
     "labels": ["Handguns", "Turks", "Optional", "Theive", "Ninja", "White Mage", "Cetra", "Avalanche", "Sector 7", "SOLDIER", "Avalanche"],

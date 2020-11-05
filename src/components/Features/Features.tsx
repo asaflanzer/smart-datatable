@@ -40,7 +40,9 @@ const theme = createMuiTheme({
   },
 });
 
-export default function Features() {
+interface Props {};
+
+export const Features: React.FC<Props> = () => {
     const [open, setOpen] = useState(false);
     const { loading } = useQueryFeatures();
 
@@ -63,7 +65,7 @@ export default function Features() {
           style={{ minHeight: '100vh' }}
         >          
           <Grid item xs={12}>
-            <Typography variant="h4" style={{marginBottom: 20}}>Team88 / Features</Typography>
+            <Typography variant="h4" style={{marginBottom: 20}}>Features</Typography>
             <Button variant="contained" color="primary" onClick={handleOpen}>Show Features</Button>
           </Grid>
         </Grid>
